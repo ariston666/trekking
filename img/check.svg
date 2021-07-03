@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 14" width="16" height="14">
+	<title>fa-check copia</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #a99b77 } 
+	</style>
+	<path id="fa-check copia" class="shp0" d="M16 3.34C16 3.09 15.9 2.84 15.73 2.66L14.41 1.28C14.24 1.1 14 1 13.75 1C13.51 1 13.27 1.1 13.1 1.28L6.75 7.92L3.9 4.94C3.73 4.76 3.48 4.66 3.24 4.66C3 4.66 2.76 4.76 2.58 4.94L1.27 6.31C1.09 6.49 1 6.75 1 7C1 7.25 1.09 7.5 1.27 7.69L4.77 11.34L6.09 12.72C6.26 12.9 6.5 13 6.75 13C6.99 13 7.23 12.9 7.4 12.72L8.72 11.34L15.73 4.03C15.9 3.85 16 3.6 16 3.34Z" />
+</svg>
